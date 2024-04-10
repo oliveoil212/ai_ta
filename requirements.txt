@@ -1,0 +1,10 @@
+wheel
+python-dotenv
+openai
+streamlit
+requests
+pyaudio
+tts
+pydub
+ffmpeg-python
+
